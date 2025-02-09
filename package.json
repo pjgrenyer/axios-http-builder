@@ -7,9 +7,6 @@
     "files": [
         "dist"
     ],
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com"
-    },
     "engines": {
         "npm": ">=8.11.0",
         "node": ">=16.15.1"
