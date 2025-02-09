@@ -1,6 +1,6 @@
 {
     "name": "axios-http-builder",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "description": "An axios instance builder for use on client or server side with common features pre-configured:",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
