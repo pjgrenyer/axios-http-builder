@@ -1,5 +1,5 @@
 {
-    "name": "@pjgrenyer/axios-http-builder",
+    "name": "axios-http-builder",
     "version": "1.0.2",
     "description": "An axios instance builder for use on client or server side with common features pre-configured:",
     "main": "dist/index.js",
@@ -31,7 +31,7 @@
         "http-client"
     ],
     "author": "Paul Grenyer",
-    "license": "ISC",
+    "license": "SEE LICENSE IN LICENSE",
     "bugs": {
         "url": "https://github.com/pjgrenyer/axios-http-builder/issues"
     },
